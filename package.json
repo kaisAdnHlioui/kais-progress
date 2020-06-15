@@ -4,7 +4,7 @@
   "description": "Progress Bar Example",
   "author": "kaishlioui",
   "license": "MIT",
-  "repository": "kaishlioui/kais-progress",
+  "repository": "kaisAdnHlioui/kais-progress",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
