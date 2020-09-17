@@ -1,5 +1,6 @@
-# kais-progress
-
+# A simple Progress Bar
+## Learning to publish a simple NPM package
+### Small Dynamic React Hook Progress Bar
 > Progress Bar Example
 
 [![NPM](https://img.shields.io/npm/v/kais-progress.svg)](https://www.npmjs.com/package/kais-progress) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
@@ -15,16 +16,16 @@ npm install --save kais-progress
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'kais-progress'
+import ProgressBar from 'kais-progress'
 import 'kais-progress/dist/index.css'
 
-class Example extends Component {
+class Test extends Component {
   render() {
-    return <MyComponent />
+    return <ProgressBar />
   }
 }
 ```
 
 ## License
 
-MIT © [kaisAdnHlioui](https://github.com/kaisAdnHlioui)
+MIT © [KaisHlioui](https://github.com/kaishlioui)
